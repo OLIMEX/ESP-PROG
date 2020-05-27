@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name OLIMEX_Transistors-FP)(type KiCad)(uri /home/chris/Olimex_OTHER/KiCAD_Foots_2020/OLIMEX_Transistors-FP.pretty)(options "")(descr ""))
+)
